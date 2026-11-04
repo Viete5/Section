@@ -1,0 +1,15 @@
+{
+  "name": "SECTION.Sandbox.EditModeTests",
+  "references": [
+    "SECTION.Sandbox",
+    "SECTION.Sandbox.Editor",
+    "SECTION.Geometry4D"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

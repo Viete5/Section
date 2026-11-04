@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d9d05436dfac4dc69478452527a74af, type: 3}
+  m_Name: ManipulatorSettings
+  m_EditorClassIdentifier: SECTION.Sandbox::Section.Sandbox.ManipulatorSettings
+  acquisitionRange: 2.8
+  minimumDistance: 1
+  maximumDistance: 3
+  distancePerNotch: 0.18
+  maximumMass: 12
+  positionSpring: 90
+  positionDamping: 18
+  maximumForce: 250
+  rotationSensitivity: 0.45
+  angularSpring: 45
+  angularDamping: 12
+  maximumAngularAcceleration: 35
+  maximumError: 1.2
+  obstructionGrace: 0.45

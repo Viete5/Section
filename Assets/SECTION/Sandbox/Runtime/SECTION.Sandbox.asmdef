@@ -1,0 +1,9 @@
+{
+  "name": "SECTION.Sandbox",
+  "rootNamespace": "Section.Sandbox",
+  "references": [
+    "Unity.InputSystem",
+    "SECTION.Geometry4D"
+  ],
+  "autoReferenced": true
+}

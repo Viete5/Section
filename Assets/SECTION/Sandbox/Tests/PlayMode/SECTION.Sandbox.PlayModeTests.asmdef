@@ -1,0 +1,13 @@
+{
+  "name": "SECTION.Sandbox.PlayModeTests",
+  "rootNamespace": "Section.Sandbox.Tests",
+  "references": [
+    "SECTION.Sandbox",
+    "Unity.InputSystem",
+    "SECTION.Geometry4D"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

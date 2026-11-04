@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+    <ui:Style src="InteractionHud.uss" />
+    <ui:VisualElement class="hud" picking-mode="Ignore">
+        <ui:Label text="+" class="reticle" picking-mode="Ignore" />
+        <ui:Label name="diagnostics" class="diagnostics hidden" picking-mode="Ignore" />
+        <ui:VisualElement class="footer" picking-mode="Ignore">
+            <ui:Label text="SECTION  /  SANDBOX 01  /  1 STANDARD · 2 DIMENSION · 3 WORLD SHIFT · F3 DIAGNOSTICS" class="title" />
+            <ui:Label name="hint" class="hint" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,8 @@
+.geometry-scroll { flex-grow: 1; }
+.geometry-panel { padding: 10px; }
+.geometry-panel > Label { white-space: normal; margin-top: 5px; margin-bottom: 5px; }
+#heading { font-size: 17px; -unity-font-style: bold; }
+.button-row { flex-direction: row; margin-top: 5px; }
+.button-row > Button { flex-grow: 1; }
+.statistics { white-space: normal; margin-top: 12px; }
+.hidden { display: none; }

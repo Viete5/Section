@@ -1,0 +1,13 @@
+{
+  "name": "SECTION.Sandbox.Editor",
+  "rootNamespace": "Section.Sandbox.Editor",
+  "references": [
+    "SECTION.Sandbox",
+    "Unity.RenderPipelines.Universal.Runtime",
+    "SECTION.Geometry4D"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}
